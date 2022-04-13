@@ -1,0 +1,17 @@
+{
+  "$schema": "https://beta.frontmatter.codes/frontmatter.schema.json",
+  "frontMatter.framework.id": "other",
+  "frontMatter.content.publicFolder": "",
+  "frontMatter.content.autoUpdateDate": true,
+  "frontMatter.content.pageFolders": [
+    {
+      "title": "Pages",
+      "path": "[[workspace]]/src/routes",
+      "excludeSubdir": true
+    },
+    {
+      "title": "News",
+      "path": "[[workspace]]/src/routes/news"
+    }
+  ]
+}

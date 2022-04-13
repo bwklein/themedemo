@@ -1,0 +1,10 @@
+{
+  "showBanner": false,
+  "bannerData":{
+    "showCTA": true,
+    "shortText": "Some Banner Short text in a few words.",
+    "longText": "Some Banner Long test text that goes on and on for a while with some information about something.",
+    "ctaText": "Take Action",
+    "ctaLink": "https://www.thunderheadeng.com"
+  }
+}
