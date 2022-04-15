@@ -26,7 +26,7 @@
   {#if section.fieldGroup == "heading-centered"}
     <SectionHeaderCentered bind:data={section} />
   {:else if section.fieldGroup == "three-column"}
-    <ThreeColumn bind:data={section.cards} />
+    <ThreeColumn bind:data={section} />
   {:else if section.fieldGroup == "news-grid"}
     <NewsGrid bind:data={section} bind:posts={posts} />
   {:else if section.fieldGroup == "video"}
